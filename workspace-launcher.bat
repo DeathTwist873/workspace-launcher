@@ -4,7 +4,7 @@ echo   Opening Edge, Chrome, Notes, WordPad Docs, (TEKION UPDATE)
 echo ===============================
 
 REM ---- OPEN CHROME WITH 5 TABS ----
-start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://outlook.office365.com/mail/partsoverstock@nissanofbrandon.com/"
+start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://outlook.office365.com/"
 start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://secure.simplepart.com/manage/home.aspx"
 start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fmep%2F"
 start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" "https://ship3.shipstation.com/home"
